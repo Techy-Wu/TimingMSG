@@ -1,0 +1,13 @@
+C:\Users\Jerry\source\repos\定时任务\bin\Debug\定时任务.exe.config
+C:\Users\Jerry\source\repos\定时任务\bin\Debug\定时任务.exe
+C:\Users\Jerry\source\repos\定时任务\bin\Debug\定时任务.pdb
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.csprojAssemblyReference.cache
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.Form1.resources
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.Properties.Resources.resources
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.csproj.GenerateResource.cache
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.exe
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.pdb
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.KeyForm.resources
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.AboutForm1.resources
+C:\Users\Jerry\source\repos\定时任务\obj\Debug\定时任务.MainForm.resources
